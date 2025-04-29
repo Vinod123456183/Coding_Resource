@@ -67,6 +67,8 @@
 [Money](https://drive.google.com/file/d/1GzwdUZKLUt1emUvOSHdBHWnjp6ctvj06/view?mcp_token=eyJwaWQiOjIyNDgxNDgsInNpZCI6Mjk1NTUzNzc4LCJheCI6ImY3M2MzOTU3MzJmNzQwMjM5MTAxMDIyOGZmZTgyZGM3IiwidHMiOjE3MzgyMTQ4NDgsImV4cCI6MTc0MDYzNDA0OH0.mW6MClDTHP8shDfKKP_tUiroMpW7Is3G82bYL7Kk52Y)
 
 
+💼 800+ GB CSE Content  💼->
+[Resource 🔗 📚](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw/folder/B7JSRLTB)
 
 
 💼 Additional Resource  💼->
