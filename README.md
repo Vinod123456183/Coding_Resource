@@ -57,14 +57,9 @@
 [Course 📈 🧮 ](https://learn.microsoft.com/en-us/training/career-paths/data-analyst)
 
 
-💰 Online Money 💰 ->
-[ 💸 Money 💲](https://superprofile.bio/vp/676e52fd21bf550013f2e8be?mcp_token=eyJwaWQiOjIyMjg2MzYsInNpZCI6MTI4OTQ3NjUxOSwiYXgiOiIzOWZlNzZjMDg3ODEwNGY2MmQ1NGRhY2QxNmIwZjkyZSIsInRzIjoxNzM4MjE0ODgwLCJleHAiOjE3NDA2MzQwODB9.VJvL0azsri-tmLEMBXIpPFav8yPKMNXAD1GBmlON75c)
-
-
-
 
 📕 Network Enginner Book 📕 ->
-[Money](https://drive.google.com/file/d/1GzwdUZKLUt1emUvOSHdBHWnjp6ctvj06/view?mcp_token=eyJwaWQiOjIyNDgxNDgsInNpZCI6Mjk1NTUzNzc4LCJheCI6ImY3M2MzOTU3MzJmNzQwMjM5MTAxMDIyOGZmZTgyZGM3IiwidHMiOjE3MzgyMTQ4NDgsImV4cCI6MTc0MDYzNDA0OH0.mW6MClDTHP8shDfKKP_tUiroMpW7Is3G82bYL7Kk52Y)
+[Book](https://drive.google.com/file/d/1GzwdUZKLUt1emUvOSHdBHWnjp6ctvj06/view?mcp_token=eyJwaWQiOjIyNDgxNDgsInNpZCI6Mjk1NTUzNzc4LCJheCI6ImY3M2MzOTU3MzJmNzQwMjM5MTAxMDIyOGZmZTgyZGM3IiwidHMiOjE3MzgyMTQ4NDgsImV4cCI6MTc0MDYzNDA0OH0.mW6MClDTHP8shDfKKP_tUiroMpW7Is3G82bYL7Kk52Y)
 
 
 💼 800+ GB CSE Content  💼->
