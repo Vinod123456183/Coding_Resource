@@ -1,4 +1,3 @@
-
 # Coding Resource
 
 💼 Bz Linktree ->
@@ -7,6 +6,24 @@
 
 💼 O(1) Coding ->
 [~Important 🧠]( https://linktr.ee/o1codingclub12?lt_utm_source=lt_share_link#431272742 )
+
+💼 Pratham Bhaiya (FAANG) ->
+[~Important 🧠](https://linktr.ee/prathamKohli)
+
+💼  Trading ->
+[~HELP 🧠]( https://linktr.ee/tradearnacademyy )
+
+
+💼  Digital Art Sensei ->
+[~LinkTree 🧠](  https://linktr.ee/digitalartsensei )
+
+
+💼  Cyber Security LinkTree ->
+[~LinkTree 🧠]( https://linktr.ee/securiumacademy_ )
+
+
+💼  Cyber Security Books ->
+[~BOOKSSS 🧠]( https://mega.nz/folder/zVpUgJSZ#7cqeeCXtsws9DO1OYJMYjw )
 
 
 
