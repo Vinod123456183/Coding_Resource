@@ -1,3 +1,60 @@
+Here are the **topics only** extracted from your content:
+
+1. Latency
+2. Throughput
+3. Load Balancer
+4. Caching
+5. Database Sharding
+6. Indexing
+7. CAP Theorem
+8. Replication
+9. Consistency Models
+10. Message Queue
+11. Microservices
+12. Monolithic Architecture
+13. API Gateway
+14. Rate Limiting
+15. Data Partitioning
+16. Leader Election
+17. Eventual Consistency
+18. Failover
+19. ACID Transactions
+20. BASE Properties
+21. Load Shedding
+22. Proxy Server
+23. NoSQL Database
+24. SQL Database
+25. Data Compression
+26. Heartbeat
+27. Sticky Sessions
+28. Circuit Breaker
+29. Quorum
+30. Event-Driven Architecture
+31. Backpressure
+32. Service Discovery
+33. Idempotency
+34. Data Denormalization
+35. Strong Consistency
+36. Eventual Consistency
+37. Tail Latency
+38. Leader-Follower Replication
+39. Consensus Algorithm
+40. Distributed Hash Table (DHT)
+41. Content Delivery Network (CDN)
+42. Throttling
+43. Horizontal Scaling
+44. Vertical Scaling
+45. Token-Based Authentication
+46. Autoscaling
+47. Distributed Cache
+48. Reverse Proxy
+49. Data Serialization
+50. Domain Name System (DNS)
+
+
+
+
+
 Do you want a crack system design interview ??
 
 1. For searching some text in millions of record: Use inverted index
